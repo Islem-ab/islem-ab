@@ -8,7 +8,7 @@
 
 ## 🛠️ Tech Interests
 - **Frontend:** React / Next.js / Vue.js
-- **Backend:** Node.js ( Express ) / Laravel  
+- **Backend:** Node.js ( Express ) 
 - **Mobile:** React Native / Flutter / Android ( Java / Kotlin )
 - **Databases:** MySQL / PostgreSQL
 
