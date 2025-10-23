@@ -1,4 +1,4 @@
-## Hi, I'm Islem! 👋
+## Hi, I'm Islem ! 👋
 
 💻 **Junior Full-Stack Developer** passionate about building web and mobile applications  
 🎓 Currently working on my bachelor's degree in Information Technology  
