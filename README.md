@@ -15,7 +15,7 @@
 ## 🌍Connect with me
 📧 **Email:** [islemab.dev@gmail.com](mailto:islemab.dev@gmail.com)
 🔗 **LinkedIn:** [linkedin.com/in/islem-abbassi-dev/](https://www.linkedin.com/in/islem-abbassi-dev/)
-🖥️ **Portfolio:** Loading
+🖥️ **Portfolio:** Coming soon
 
 
 <i>"Always learning. Always building"</i>
