@@ -13,7 +13,7 @@
 - **Databases:** MySQL / PostgreSQL / MongoDB
 
 ## 🌍Connect with me
-📧 **Email:** [islemab.dev@gmail.com](mailto:islemab.dev@gmail.com)
+📧 **Email:** [islemabbassi.official@gmail.com](mailto:islemab.dev@gmail.com)
 🔗 **LinkedIn:** [linkedin.com/in/islem-abbassi-dev/](https://www.linkedin.com/in/islem-abbassi-dev/)
 🖥️ **Portfolio:** Coming soon
 
